@@ -1,0 +1,87 @@
+.box {
+  position: relative;
+  margin-top: 5em;
+  height: 65vh;
+  width: 35vh;
+  margin-left: 2em;
+  align-items: center;
+}
+
+.card {
+  height: 55vh;
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2), 0 0px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.t {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  color: grey;
+}
+
+.button1 {
+  margin-left: 5.3em;
+  background-color: transparent;
+  border-width: 0.1px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 3px;
+  color: #03c04a;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.up {
+  height: 7vh;
+  border-bottom: ridge;
+  display: flex;
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.mid {
+  height: 21vh;
+  border-bottom: ridge;
+}
+.img {
+  text-align: center;
+}
+
+.staff {
+  height: 1vh;
+  border-bottom: ridge;
+  font-size: 10px;
+  text-align: center;
+  font-weight: 500;
+  color: grey;
+}
+
+.te {
+  font-size: 10px;
+  text-align: center;
+  font-weight: 500;
+  color: grey;
+}
+
+.tex {
+  font-size: 8px;
+  text-align: center;
+}
+
+.mid2 {
+  background-color: darkorange;
+  height: 14vh;
+}
+
+.mid3 {
+  height: 5vh;
+  border-bottom: ridge;
+}
+
+.foot {
+  height: 7vh;
+  border-width: 4px;
+  border-color: darkorange;
+  border-bottom-style: solid;
+}
